@@ -1,2 +1,2 @@
-A simple role-playing game made with JS. \n
+A simple role-playing game made with JS. <br />
 Visit: https://salah-uddin-mondal.github.io/basicRPG/
